@@ -43,8 +43,21 @@ The dataset includes historical emissions data for various jurisdictions from 20
 - `2022`
 - `2023`
 - `2024`
+The results of the models will be printed in the console, including metrics such as:
 
+Mean Absolute Error (MAE)
+Mean Squared Error (MSE)
+Root Mean Squared Error (RMSE)
+R-squared (R²)
+Visualizations of predictions will also be generated, showing actual vs predicted values and residuals.
 Please ensure that the data is properly formatted and preprocessed before running the models.
+
+![image](https://github.com/user-attachments/assets/48d0bb12-b4db-4acd-b8a6-4209c3e3c23b)
+
+![image](https://github.com/user-attachments/assets/70e51afc-8ac6-4dc6-a26e-64b26ab88fc8)
+
+![image](https://github.com/user-attachments/assets/b6b914a3-4b38-4142-a510-2a6ea591d47a)
+
 
 ## Installation
 
